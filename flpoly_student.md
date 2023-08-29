@@ -18,12 +18,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- The Magnus Archives
 
-- Thing 2
+- Good Omens
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Music 
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/11
