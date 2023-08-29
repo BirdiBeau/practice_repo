@@ -1,16 +1,18 @@
 ## Josephine Johnson
 
-### Term Year 
+### 2023 - 2024
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Analytic Geometry and Calculus I
 
-- Course 2
+- Chemistry I
 
-- Course 3
+- Chemistry I Laboratory
 
-- Course 4
+- Foundations of Data Analytics
+
+- Principles of Microeconomics
 
 **Hobbies:**
 
