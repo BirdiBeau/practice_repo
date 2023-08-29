@@ -1,4 +1,4 @@
-## Josephine Johnson
+## Josephine (Josie) Johnson
 
 ### 2023 - 2024
 
